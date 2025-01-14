@@ -1,5 +1,3 @@
-# fibonacci-series
-
 # Fibonacci Series
 
 This repository contains an implementation of the Fibonacci series.
