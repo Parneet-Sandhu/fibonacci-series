@@ -21,7 +21,6 @@ The Fibonacci series is a sequence of numbers where each number is the sum of th
      ```bash
      python fibonacci.py
      ```
-
 ## Example Output
 For input `n = 10`, the output will be:
 ```
